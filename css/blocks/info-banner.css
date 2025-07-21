@@ -1,5 +1,5 @@
 .info-banner {
-    max-width: 1230px;
+    max-width: 100%;
     min-height: 320px;
     display: flex;
     flex-direction: row;

@@ -1,15 +1,20 @@
 .advantages {
-    margin: 0;
+    max-width: 992px;
     padding: 0;
     list-style: none;
     display: flex;
     flex-direction: row;
     justify-content: center;
     gap: 30px;
+    margin: 0 auto 120px;
+    border-right: 1px solid #1D252D;
+    border-left: 1px solid #1D252D;
 }
 
 .advantages__item {
-display: flex;
+    padding: 0 65px;
+    display: flex;
+    flex: 1;
     flex-direction: column;
     justify-content: center;
 }
@@ -19,6 +24,7 @@ display: flex;
     font-size: 54px;
     line-height: 60px;
     text-align: center;
+    margin: 0 0 10px;
 }
 
 .advantages__text {
@@ -29,5 +35,6 @@ display: flex;
 }
 
 .advantages__item--accent {
-
+    background-color: #F2F3EE;
+    border-radius: 0 60px;
 }
