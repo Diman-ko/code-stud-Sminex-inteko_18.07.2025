@@ -8,6 +8,7 @@
     margin: 0 0 120px;
     justify-content: space-between;
     background-image: url("../../images/banner-img.jpg");
+    align-items: center;
 }
 
 .info-banner__title {
@@ -16,6 +17,8 @@
     font-size: 44px;
     line-height: 48px;
     text-transform: uppercase;
+    padding: 0;
+    margin: 0;
 }
 
 .info-banner__inner {

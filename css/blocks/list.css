@@ -7,8 +7,8 @@
     justify-content: center;
     gap: 30px;
     margin: 0 auto;
-    border-right: 1px solid #1D252D;
-    border-left: 1px solid #1D252D;
+    border-right: 1px solid rgba(29, 37, 45, 0.3);
+    border-left: 1px solid rgba(29, 37, 45, 0.3);
 }
 
 .advantages__item {
